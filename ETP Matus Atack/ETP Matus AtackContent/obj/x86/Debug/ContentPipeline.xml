@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>17-I'll Face Myself -Battle-.mp3</Source>
+      <Name>17-I'll Face Myself -Battle-</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\17-I'll Face Myself -Battle-.xnb</Output>
+      <Extra>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\17-I'll Face Myself -Battle-.wma</Extra>
+      <Time>2011-01-29T19:25:58-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Portada.png</Source>
+      <Name>Assets_Graficos\Portada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Portada.xnb</Output>
+      <Time>2011-01-30T14:02:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Ropas\Malo1.png</Source>
+      <Name>Assets_Graficos\Ropas\Malo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Malo1.xnb</Output>
+      <Time>2011-01-29T03:30:24-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Terreno.png</Source>
+      <Name>Assets_Graficos\Terreno</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Terreno.xnb</Output>
+      <Time>2011-01-30T11:06:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\YouLose.png</Source>
+      <Name>Assets_Graficos\YouLose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\YouLose.xnb</Output>
+      <Time>2011-01-30T15:13:34-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\YouWin.png</Source>
+      <Name>Assets_Graficos\YouWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\YouWin.xnb</Output>
+      <Time>2011-01-30T13:58:58-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\DarkSmoke.png</Source>
+      <Name>Particulas\DarkSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\DarkSmoke.xnb</Output>
+      <Time>2010-01-13T20:04:14-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\fire.png</Source>
+      <Name>Particulas\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\fire.xnb</Output>
+      <Time>2007-11-26T12:33:18-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\miniFire.png</Source>
+      <Name>Particulas\miniFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\miniFire.xnb</Output>
+      <Time>2010-01-12T19:12:52-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\nieve.png</Source>
+      <Name>Particulas\nieve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\nieve.xnb</Output>
+      <Time>2010-12-18T10:11:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\smoke.png</Source>
+      <Name>Particulas\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\smoke.xnb</Output>
+      <Time>2010-01-12T19:07:22-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\splash.png</Source>
+      <Name>Particulas\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\splash.xnb</Output>
+      <Time>2010-12-21T22:46:44-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\ventisca.png</Source>
+      <Name>Particulas\ventisca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\ventisca.xnb</Output>
+      <Time>2010-12-21T03:14:36-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\skymapNigth.dds</Source>
+      <Name>Assets_Graficos\skymapNigth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skymapNigth.xnb</Output>
+      <Time>2010-12-20T23:21:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>SonidoFX\Fireball.wav</Source>
+      <Name>SonidoFX\Fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\SonidoFX\Fireball.xnb</Output>
+      <Time>2011-01-30T14:14:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Bloom\BloomCombine.fx</Source>
+      <Name>Assets_Graficos\Bloom\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\BloomCombine.xnb</Output>
+      <Time>2010-09-15T11:23:06-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Bloom\BloomExtract.fx</Source>
+      <Name>Assets_Graficos\Bloom\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\BloomExtract.xnb</Output>
+      <Time>2010-09-15T11:23:06-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Bloom\GaussianBlur.fx</Source>
+      <Name>Assets_Graficos\Bloom\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\GaussianBlur.xnb</Output>
+      <Time>2010-09-15T11:23:06-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Particulas\ParticleEffect.fx</Source>
+      <Name>Particulas\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\ParticleEffect.xnb</Output>
+      <Time>2012-05-04T20:34:19.9883796-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared1lat.FBX</Source>
+      <Name>Assets_Graficos\Edificios\pared1lat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\pared1lat.xnb</Output>
+      <Time>2011-01-30T14:48:10-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\pared1lat_0.xml</Key>
+        <Value>2012-05-04T20:34:26.4628049-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\fire_cube.fbx</Source>
+      <Name>Assets_Graficos\fire_cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\fire_cube.xnb</Output>
+      <Time>2011-01-29T15:28:52-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\fire_cube_0.xml</Key>
+        <Value>2012-05-04T20:34:26.8368295-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Fireball1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Personaje.fbx</Source>
+      <Name>Assets_Graficos\Personaje</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Personaje.xnb</Output>
+      <Time>2011-01-29T04:57:50-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Personaje_0.xml</Key>
+        <Value>2012-05-04T20:34:27.7298882-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Prota1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>rect.fbx</Source>
+      <Name>rect</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\rect.xnb</Output>
+      <Time>2011-01-30T02:31:28-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\rect_0.xml</Key>
+        <Value>2012-05-04T20:34:28.6529488-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\font1.spritefont</Source>
+      <Name>Assets_Graficos\font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\font1.xnb</Output>
+      <Time>2011-01-29T04:32:00-04:30</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2011-01-28T23:25:22-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\DarkSmoke.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\DarkSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\DarkSmoke.xnb</Output>
+      <Time>2010-01-13T20:04:14-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\fire.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\fire.xnb</Output>
+      <Time>2007-11-26T12:33:18-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\miniFire.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\miniFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\miniFire.xnb</Output>
+      <Time>2010-01-12T19:12:52-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\nieve.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\nieve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\nieve.xnb</Output>
+      <Time>2010-12-18T10:11:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\smoke.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\smoke.xnb</Output>
+      <Time>2010-01-12T19:07:22-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\splash.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\splash.xnb</Output>
+      <Time>2010-12-21T22:46:44-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\ventisca.png</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\ventisca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\ventisca.xnb</Output>
+      <Time>2010-12-21T03:14:36-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\Particulas\ParticleEffect.fx</Source>
+      <Name>Assets_Graficos\Edificios\Particulas\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\ParticleEffect.xnb</Output>
+      <Time>2012-05-04T20:33:45.4291123-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\doblepiso.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\doblepiso_0.xml</Output>
+      <Time>2011-01-30T13:45:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro 2 Mediano.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro 2 Mediano_0.xml</Output>
+      <Time>2011-01-29T23:00:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\estructura2Color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura2Color_0.xnb</Output>
+      <Time>2011-01-30T12:31:36-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro 3 Gigante.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro 3 Gigante_0.xml</Output>
+      <Time>2011-01-29T23:05:00-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\estructura3Color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura3Color_0.xnb</Output>
+      <Time>2011-01-30T12:46:20-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro1mas largo.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro1mas largo_0.xml</Output>
+      <Time>2011-01-29T23:10:46-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\estructura1Color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura1Color_0.xnb</Output>
+      <Time>2011-01-30T12:20:46-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\pared1_0.xml</Output>
+      <Time>2011-01-30T13:39:42-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared1lat.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\pared1lat_0.xml</Output>
+      <Time>2011-01-30T14:48:10-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\pared2_0.xml</Output>
+      <Time>2011-01-30T13:42:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\torre5.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Edificios\torre5_0.xml</Output>
+      <Time>2011-01-30T13:44:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\fire_cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\fire_cube_0.xml</Output>
+      <Time>2011-01-29T15:28:52-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Fireball1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Fireball1_0.xnb</Output>
+      <Time>2011-01-29T14:56:58-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Ice Javelin.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Ice Javelin_0.xml</Output>
+      <Time>2011-01-30T11:50:14-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\IceBall1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\IceBall1_0.xnb</Output>
+      <Time>2011-01-30T08:52:46-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Personaje.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\Personaje_0.xml</Output>
+      <Time>2011-01-29T04:57:50-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Ropas\Prota1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Prota1_0.xnb</Output>
+      <Time>2011-01-29T03:30:24-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\skySphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Assets_Graficos\skySphere_0.xml</Output>
+      <Time>2011-01-30T11:27:38-04:30</Time>
+    </Item>
+    <Item>
+      <Source>rect.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\rect_0.xml</Output>
+      <Time>2011-01-30T02:31:28-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\doblepiso.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf3.xnb</Output>
+      <Time>2011-01-30T13:45:28-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\doblepiso_0.xml</Key>
+        <Value>2012-05-04T20:34:22.0575155-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared1.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf4.xnb</Output>
+      <Time>2011-01-30T13:39:42-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\pared1_0.xml</Key>
+        <Value>2012-05-04T20:34:26.3827997-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\pared2.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf5.xnb</Output>
+      <Time>2011-01-30T13:42:28-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\pared2_0.xml</Key>
+        <Value>2012-05-04T20:34:26.5488106-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\torre5.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf6</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf6.xnb</Output>
+      <Time>2011-01-30T13:44:28-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\torre5_0.xml</Key>
+        <Value>2012-05-04T20:34:26.6348162-04:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Ropas\Prota1.png</Source>
+      <Name>Assets_Graficos\Ropas\Prota1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Prota1.xnb</Output>
+      <Time>2011-01-29T03:30:24-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Ice Javelin.fbx</Source>
+      <Name>Assets_Graficos\IceJavelin</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\IceJavelin.xnb</Output>
+      <Time>2011-01-30T11:50:14-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Ice Javelin_0.xml</Key>
+        <Value>2012-05-04T20:34:27.2628575-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\IceBall1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\skySphere.fx</Source>
+      <Name>Assets_Graficos\skySphereFX</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skySphereFX.xnb</Output>
+      <Time>2011-01-30T14:32:40-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Coso de instrucciones PAGE 1.png</Source>
+      <Name>Assets_Graficos\instrucciones1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\instrucciones1.xnb</Output>
+      <Time>2011-01-30T14:02:50-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Coso de instrucciones PAGE 2.png</Source>
+      <Name>Assets_Graficos\instrucciones2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\instrucciones2.xnb</Output>
+      <Time>2011-01-30T14:02:58-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Coso de vida.png</Source>
+      <Name>Assets_Graficos\hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\hud.xnb</Output>
+      <Time>2011-01-30T10:45:14-04:30</Time>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro 2 Mediano.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf2.xnb</Output>
+      <Time>2011-01-29T23:00:28-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro 2 Mediano_0.xml</Key>
+        <Value>2012-05-04T20:34:22.4975444-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura2Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro 3 Gigante.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf1.xnb</Output>
+      <Time>2011-01-29T23:05:00-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro 3 Gigante_0.xml</Key>
+        <Value>2012-05-04T20:34:24.9287041-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura3Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\Edificios\EdificioPro1mas largo.FBX</Source>
+      <Name>Assets_Graficos\Edificios\Edf0</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf0.xnb</Output>
+      <Time>2011-01-29T23:10:46-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\Edificios\EdificioPro1mas largo_0.xml</Key>
+        <Value>2012-05-04T20:34:25.7007549-04:30</Value>
+      </Dependency>
+      <Request>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura1Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Assets_Graficos\skySphere.fbx</Source>
+      <Name>Assets_Graficos\skySphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skySphere.xnb</Output>
+      <Time>2011-01-30T11:27:38-04:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Assets_Graficos\skySphere_0.xml</Key>
+        <Value>2012-05-04T20:34:28.5719435-04:30</Value>
+      </Dependency>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus AtackContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus AtackContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-29T17:30:36.8002347-04:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,67 @@
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\17-I'll Face Myself -Battle-.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Portada.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Malo1.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Terreno.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\YouLose.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\YouWin.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\DarkSmoke.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\fire.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\miniFire.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\nieve.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\smoke.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\splash.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\ventisca.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skymapNigth.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\SonidoFX\Fireball.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\BloomCombine.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\BloomExtract.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Bloom\GaussianBlur.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Particulas\ParticleEffect.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\pared1lat.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\fire_cube.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Personaje.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skySphere.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\rect.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\font1.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\font.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\DarkSmoke.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\fire.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\miniFire.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\nieve.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\smoke.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\splash.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\ventisca.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Particulas\ParticleEffect.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura2Color_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura3Color_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\estructura1Color_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Fireball1_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\IceBall1_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Prota1_0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\17-I'll Face Myself -Battle-.wma
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Escalas_Edificios\Escenario1.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Escalas_Enemigos\Escenario1.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Modelos\Modelo_Edificios.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Modelos\Modelo_Enemigos.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Posiciones_Edificios\Escenario1.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Posiciones_Enemigos\Escenario1.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Zonas_Prohibidas\Escenario1.txt
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\ETP Matus Atack.exe
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\ETP Matus Atack.pdb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\obj\x86\Debug\ETP Matus Atack.exe
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\obj\x86\Debug\ETP Matus Atack.pdb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf3.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf2.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf1.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf0.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf4.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf5.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Edificios\Edf6.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\Ropas\Prota1.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\IceJavelin.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\skySphereFX.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\instrucciones1.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\instrucciones2.xnb
+D:\Proyects\Graficas 3\ETP Matus Atack\ETP Matus Atack\ETP Matus Atack\bin\x86\Debug\Content\Assets_Graficos\hud.xnb
